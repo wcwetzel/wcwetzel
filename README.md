@@ -5,6 +5,6 @@ Working with others, I run The Herbivory Variability Network (https://herbvar.or
 William C. Wetzel\
 Associate Professor\
 Land Resources & Environmental Sciences\
-Montana State University\
+Montana State University
 
 https://wetzellab.com/
